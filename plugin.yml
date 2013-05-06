@@ -1,0 +1,9 @@
+name: Spores
+main: uk.co.mobsoc.spores.Spores
+version: 0.1
+softdepend: [Sprout,Spout]
+load: startup
+commands:
+   spores:
+      description: Spores
+      usage: /spores [options]
